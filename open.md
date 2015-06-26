@@ -4,9 +4,11 @@
 ## People Questions ##
 1. Do you have a blog and, if so, what is the URL? *@digininja*
 2. Do you contribute to open source projects and, if so, which and at what level? *@digininja*
+3. How do you participate in the information security community? *@jsntkndy*
 3. What conferences do you attend? *@digininja*
 4. What conferences have you spoken at? *@digininja*
 5. Name a couple of people in the industry that you'd look to for advice/trust their advice. *Asking this to make sure they are active and know who does what, if they are claiming to be wifi experts and don't name people like Josh Wright then they are lying.* *@digininja*
+6. What methods or sources of information do you use for keeping up to date in the security industry? *jstnkndy*
 
 ## Tech Questions ##
 ### General Pentest ###
@@ -32,4 +34,12 @@
 7. How would you turn a Local File Inclusion against a Linux host into Command Execution? *@jstnkndy*
 8. Describe how and where in an application you might test for username enumeration. *@jstnkndy*
 9. Are there any security concerns with scoping an authorization cookie to the parent domain? *jstnkndy*
-10. 
+10. Suppose you have physical access to a machine on a corporate domain that you are testing. It is connected to their network. You don't have credentials for the domain or local machine. You also have your own laptop. How would you begin testing? *jstnkndy*
+11. What tests you would perform in the following scenarios: suppose you are assessing an application, the “forgot password” process consists of 3 steps: *jstnkndy*
+    1. Enter your username
+    2. Answer 3 security questions
+    3. Set a new password
+4. You are performing an application penetration test and you come across a Java applet, describe what you might do with it. *jstnkndy*
+5. What would you inject into an HTML page of a victim to get their Windows computer to send you their password hashes? *jstnkndy*
+6. What is the relevance of WPAD on a penetration test and how can it be leveraged? *jstnkndy*
+7. 
