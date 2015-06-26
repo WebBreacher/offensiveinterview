@@ -27,3 +27,9 @@
     2. How would you gather cleartext credentials from the machine?
     3. You attempt to run mimikatz but error occurs, how do you debug this? (or what would you do to try and fix the error?)
 4. Using the same meterpreter session as previous, you are able to dump the local machine hashes, describe what you would do with these. *@jstnkndy*
+5. You are performing an onsite penetration test. You do not want to perform any active scanning. How would you gather credentials? *@jstnkndy*
+6. You have found Local File Inclusion in a .php file on a webserver; you want to read the file contents of the local file config.php file on the webserver but the code is being interpreted. How do you gain access to the file contents of config.php? *@jstnkndy*
+7. How would you turn a Local File Inclusion against a Linux host into Command Execution? *@jstnkndy*
+8. Describe how and where in an application you might test for username enumeration. *@jstnkndy*
+9. Are there any security concerns with scoping an authorization cookie to the parent domain? *jstnkndy*
+10. 
