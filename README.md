@@ -5,8 +5,8 @@ Collect a large sampling of interview questions to screen offensive (red team/pe
 1. Use the standard method of forking this repository, making your changes and doing a "pull" request to have your content added
    - Format your questions as a numbered list, the question, your name (*@name*) if you'd like attribution, then any directions for the interviewer *in italics*. These are directions on what to look for or how to ask the question not answers to the questions.
    - Examples:
-      - "What is CSRF and how is it different from XSS?" *@webbreacher*
-      - "I have a /24 subnet on the Internet. You are a pentester. Tell me, start to finish, how you would execute this assessment." *@webbreacher* *Look for everything from scoping meeting and rules of engagement to the depth/detail of their responses.*
+      1. "What is CSRF and how is it different from XSS?" *@webbreacher*
+      1. "I have a /24 subnet on the Internet. You are a pentester. Tell me, start to finish, how you would execute this assessment." *@webbreacher* *Look for everything from scoping meeting and rules of engagement to the depth/detail of their responses.*
 2. Alternatively, if you just want to copy/paste your content, we'll take that too! [Create an "Issue"[(https://github.com/WebBreacher/offensiveinterview/issues) with your content and we will add for you. Please tell us if you'd like attribution ("this question came from @johndoe") or not.
 
 # Organization
