@@ -8,7 +8,7 @@
 3. Explain what NBNS poisoning is and how it can be leveraged on a penetration test. *@jstnkndy*
 12. Answer true or false and explain your answer: two-factor authentication protects against session hijacking. *@jstnkndy*
 13. How would you avoid anti virus?
-14. How would you target a database, that you know lies behing a jump server with an unkown IP address?
+14. How would you target a database that you know lies behing a jump server with an unkown IP address?
 15. What are commonly vulnerable ports/services/applications? 
 16. You have unprivileged Windows credentials, how can you elevate your privileges? 
 
