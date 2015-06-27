@@ -9,6 +9,10 @@
 4. What conferences have you spoken at? *@digininja*
 5. Name a couple of people in the industry that you'd look to for advice/trust their advice. *Asking this to make sure they are active and know who does what, if they are claiming to be wifi experts and don't name people like Josh Wright then they are lying.* *@digininja*
 6. What methods or sources of information do you use for keeping up to date in the security industry? *jstnkndy*
+7. If you could have any job in infosec, what would it be an why? *@webbreacher*
+8. What is the coolest thing you have done in infosec? *@webbreacher*
+9. Why would you like to work here? *@webbreacher*
+10. Describe how you learn best? *@webbreacher*
 
 ## Tech Questions ##
 ### General Pentest ###
@@ -30,16 +34,19 @@
     3. You attempt to run mimikatz but error occurs, how do you debug this? (or what would you do to try and fix the error?)
 4. Using the same meterpreter session as previous, you are able to dump the local machine hashes, describe what you would do with these. *@jstnkndy*
 5. You are performing an onsite penetration test. You do not want to perform any active scanning. How would you gather credentials? *@jstnkndy*
-6. You have found Local File Inclusion in a .php file on a webserver; you want to read the file contents of the local file config.php file on the webserver but the code is being interpreted. How do you gain access to the file contents of config.php? *@jstnkndy*
-7. How would you turn a Local File Inclusion against a Linux host into Command Execution? *@jstnkndy*
-8. Describe how and where in an application you might test for username enumeration. *@jstnkndy*
-9. Are there any security concerns with scoping an authorization cookie to the parent domain? *jstnkndy*
 10. Suppose you have physical access to a machine on a corporate domain that you are testing. It is connected to their network. You don't have credentials for the domain or local machine. You also have your own laptop. How would you begin testing? *jstnkndy*
+6. What is the relevance of WPAD on a penetration test and how can it be leveraged? *jstnkndy*
+
+### Web Application ###
+4. You are performing an application penetration test and you come across a Java applet, describe what you might do with it. *jstnkndy*
+5. What would you inject into an HTML page of a victim to get their Windows computer to send you their password hashes? *jstnkndy*
 11. What tests you would perform in the following scenarios: suppose you are assessing an application, the “forgot password” process consists of 3 steps: *jstnkndy*
     1. Enter your username
     2. Answer 3 security questions
     3. Set a new password
-4. You are performing an application penetration test and you come across a Java applet, describe what you might do with it. *jstnkndy*
-5. What would you inject into an HTML page of a victim to get their Windows computer to send you their password hashes? *jstnkndy*
-6. What is the relevance of WPAD on a penetration test and how can it be leveraged? *jstnkndy*
-7. 
+6. You have found Local File Inclusion in a .php file on a webserver; you want to read the file contents of the local file config.php file on the webserver but the code is being interpreted. How do you gain access to the file contents of config.php? *@jstnkndy*
+7. How would you turn a Local File Inclusion against a Linux host into Command Execution? *@jstnkndy*
+8. Describe how and where in an application you might test for username enumeration. *@jstnkndy*
+9. Are there any security concerns with scoping an authorization cookie to the parent domain? *jstnkndy*
+
+### Red Team ###
