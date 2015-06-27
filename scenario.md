@@ -14,4 +14,4 @@
         4. *Does their architecture make sense? If not, call them on it and ask them to fix it.*
     5. *Once the candidate has completed their drawing, the interviewer goes to the board and draws a stick figure person attached to the Internet.* "This is you. You are an attacker on the Internet. I want you to tell me how you are going to compromise the AD server here (*circle it in the drawing*) and exfiltrate the AD user hashes."
         1. *At this point the candidate can use any number of techniques to compromise the network and systems. The interviewer is looking for plausible attacks. Ask for more details at each step of their attack. Provide them challenges ("Our firm uses egress filter for servers so they cannot talk right to the Internet.") and see how they roll with them.*
-
+2. On an assessment, you have just compromised a Mac OS X laptop inside a corporate user subnet. Your goal is to exfiltrate Active Directory hashes from the AD servers. How do you accomplish this? *@webbreacher*
