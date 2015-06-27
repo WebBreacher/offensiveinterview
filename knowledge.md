@@ -7,6 +7,10 @@
 2. What kind of attack is ARP Spoofing considered and how could you leverage it on a penetration test? *@jstnkndy*
 3. Explain what NBNS poisoning is and how it can be leveraged on a penetration test. *@jstnkndy*
 12. Answer true or false and explain your answer: two-factor authentication protects against session hijacking. *@jstnkndy*
+13. How would you avoid anti virus?
+14. How would you target a database, that you know lies behing a jump server with an unkown IP address?
+15. What are commonly vulnerable ports/services/applications? 
+16. You have unprivileged Windows credentials, how can you elevate your privileges? 
 
 ### Crypto / Hashes / Passwords ###
 5. Describe the basics of input and output of a stream cipher. *@jstnkndy*
@@ -20,6 +24,8 @@
 ### Web Application ###
 4. Describe what SQL Injection is and how you would test for it? *@jstnkndy*
 5. What about Blind SQL Injection and how is it different from other kinds? *@jstnkndy*
+6. How can SQL Injection lead to remote code execution?
+7. Describe a webshell and how you would upload/use one.
 2. Describe Cross Site Request Forgery. *@jstnkndy*
     1. How would you prevent it?
 2. Describe the different types of Cross Site Scripting. *@jstnkndy*
