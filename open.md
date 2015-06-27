@@ -28,13 +28,15 @@
     2. How many ports were scanned? *(if they didn’t answer)*
     3. If you ran the same command as root, describe the differences. *(if they didn’t answer)*
 4. You are launching a Metasploit reverse https meterpreter payload against a host that you know is vulnerable to your attack, but once you type “exploit” nothing happens after it launches the attack, how would you debug this (or what would you change to get your meterpreter session?) *@jstnkndy*
-5. You have successfully initiated a meterpreter session against a Windows host. What type of post exploitation do you perform? *@jstnkndy*
+5. 5. You have successfully initiated a meterpreter session against a Windows host. What type of post exploitation do you perform? *@jstnkndy*
     1. How would you extract the local password hashes?
     2. How would you gather cleartext credentials from the machine?
     3. You attempt to run mimikatz but error occurs, how do you debug this? (or what would you do to try and fix the error?)
 4. Using the same meterpreter session as previous, you are able to dump the local machine hashes, describe what you would do with these. *@jstnkndy*
 5. You are performing an onsite penetration test. You do not want to perform any active scanning. How would you gather credentials? *@jstnkndy*
 10. Suppose you have physical access to a machine on a corporate domain that you are testing. It is connected to their network. You don't have credentials for the domain or local machine. You also have your own laptop. How would you begin testing? *jstnkndy*
+
+### Crypto/Hashes/Passwords ###
 6. What is the relevance of WPAD on a penetration test and how can it be leveraged? *jstnkndy*
 
 ### Web Application ###
@@ -48,5 +50,7 @@
 7. How would you turn a Local File Inclusion against a Linux host into Command Execution? *@jstnkndy*
 8. Describe how and where in an application you might test for username enumeration. *@jstnkndy*
 9. Are there any security concerns with scoping an authorization cookie to the parent domain? *jstnkndy*
+10. On a Linux host running MySQL, how would you go about gaining command execution leveraging SQL Injection? *jstnkndy*
 
-### Red Team ###
+### Mobile ###
+2. Describe how you can perform Man-In-The-Middle (MITM) attacks (to view and tamper with the traffic) against mobile devices. *@webbreacher*
