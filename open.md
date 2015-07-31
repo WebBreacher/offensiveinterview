@@ -35,6 +35,11 @@
 4. Using the same meterpreter session as previous, you are able to dump the local machine hashes, describe what you would do with these. *@jstnkndy*
 5. You are performing an onsite penetration test. You do not want to perform any active scanning. How would you gather credentials? *@jstnkndy*
 10. Suppose you have physical access to a machine on a corporate domain that you are testing. It is connected to their network. You don't have credentials for the domain or local machine. You also have your own laptop. How would you begin testing? *jstnkndy*
+11. How would you avoid anti virus?
+12. How would you target a database that you know lies behing a jump server with an unkown IP address?
+13. What are commonly vulnerable ports/services/applications? 
+14. You have unprivileged Windows credentials, how can you elevate your privileges? 
+15. How can SQL Injection lead to remote code execution?
 
 ### Crypto/Hashes/Passwords ###
 6. What is the relevance of WPAD on a penetration test and how can it be leveraged? *jstnkndy*
