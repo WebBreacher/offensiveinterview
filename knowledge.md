@@ -20,6 +20,7 @@
 ### Web Application ###
 4. Describe what SQL Injection is and how you would test for it? *@jstnkndy*
 5. What about Blind SQL Injection and how is it different from other kinds? *@jstnkndy*
+7. Describe a webshell and how you would upload/use one.
 2. Describe Cross Site Request Forgery. *@jstnkndy*
     1. How would you prevent it?
 2. Describe the different types of Cross Site Scripting. *@jstnkndy*
