@@ -20,6 +20,8 @@
 ### Web Application ###
 4. Describe what SQL Injection is and how you would test for it? *@jstnkndy*
 5. What about Blind SQL Injection and how is it different from other kinds? *@jstnkndy*
+6. How can SQL Injection lead to remote code execution? *@morgoroth*
+7. How can you execute os command with mssql injection? *@enddo*
 7. Describe a webshell and how you would upload/use one. *@enddo*
     1. How would you bypass uploader protections? *@enddo*
 8. Describe a Remote Command Execute(RCE). *@enddo*
@@ -27,7 +29,7 @@
 2. Describe Cross Site Request Forgery. *@jstnkndy*
     1. How would you prevent it?
 2. Describe the different types of Cross Site Scripting. *@jstnkndy*
-    1. How would you exploit XSS? *@enddo*
+    1. How would you exploit XSS?
 3. What is the purpose of the same origin policy with relation to the document object model? *@jstnkndy*
 4. Describe the basics of input and output of a block cipher. *@jstnkndy*
 5. How does the Heartbleed vulnerability work? *@webbreacher*
