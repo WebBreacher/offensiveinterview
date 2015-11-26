@@ -21,11 +21,11 @@
 4. Describe what SQL Injection is and how you would test for it? *@jstnkndy*
 5. What about Blind SQL Injection and how is it different from other kinds? *@jstnkndy*
 6. How can SQL Injection lead to remote code execution? *@morgoroth*
-7. How can you execute os command with mssql injection? *@enddo*
+7. How can you execute OS command with mssql injection? *@enddo*
 7. Describe a webshell and how you would upload/use one. *@enddo*
     1. How would you bypass uploader protections? *@enddo*
-8. Describe a Remote Command Execute(RCE). *@enddo*
-    1. How would you perevent it in php? *@enddo*
+8. Describe Remote Command Execution (RCE). *@enddo*
+    1. How would you perevent it in PHP? *@enddo*
 2. Describe Cross Site Request Forgery. *@jstnkndy*
     1. How would you prevent it?
 2. Describe the different types of Cross Site Scripting. *@jstnkndy*
@@ -38,8 +38,8 @@
 ### Exploit Development ###
 1. Describe what Buffer overflow is and how you would test for it? *@enddo*
 2. Describe what SEH is and how you exploit it? *@enddo*
-3. How debugger modules and plugins can speed up basic exploit development? *@enddo*
-4. How would you bypass DEP or ASLR in windows 7? *@enddo*
+3. Describe how debugger modules and plugins can speed up basic exploit development? *@enddo*
+4. How would you bypass DEP or ASLR in Windows 7? *@enddo*
 5. How would you bypass SafeSEH? *@enddo*
 
 ### Mobile ###
