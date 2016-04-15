@@ -1,6 +1,8 @@
 # Purpose
 Collect a large sampling of interview questions to screen offensive (red team/pentest) candidates
 
+If you are a candidate and looking to find some good questions to ask employers, visits @doctorj's page here: [https://gitlab.com/doctorj/interview-questions/blob/master/interview-questions.yml](https://gitlab.com/doctorj/interview-questions/blob/master/interview-questions.yml)
+
 # Contributing
 1. Use the standard method of forking this repository, making your changes and doing a "pull" request to have your content added
    - Format your questions as a numbered list, the question, your name (*@name*) if you'd like attribution, then any directions for the interviewer *in italics*. These are directions on what to look for or how to ask the question not answers to the questions.
