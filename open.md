@@ -13,6 +13,7 @@
 8. What is the coolest thing you have done in infosec? *@webbreacher*
 9. Why would you like to work here? *@webbreacher*
 10. Describe how you learn best? *@webbreacher*
+11. What was the last or most interesting tech project you worked on in your personal time *@cdiaz1971*
 
 ## Tech Questions ##
 ### General Pentest ###
