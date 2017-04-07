@@ -7,6 +7,7 @@
 2. What kind of attack is ARP Spoofing considered and how could you leverage it on a penetration test? *@jstnkndy*
 3. Explain what NBNS poisoning is and how it can be leveraged on a penetration test. *@jstnkndy*
 12. Answer true or false and explain your answer: two-factor authentication protects against session hijacking. *@jstnkndy*
+13. Explain what happens when a connection from your webbrowser to a webserver is initiated on every OSI layer (as detailed as you like). *@dhauenstein*
 
 ### Crypto / Hashes / Passwords ###
 5. Describe the basics of input and output of a stream cipher. *@jstnkndy*
