@@ -9,7 +9,7 @@
 1. What are the phases of a penetration test? *@whereistehnarwhal, reddit*
 2. What is the difference between a risk assessment, a vulnerability assessment, and a penetration test? *@whereistehnarwhal, reddit*
 3. When running an nmap scan, what source port can you specify to scan from to commonly bypass firewall rules? *@jstnkndy*
-4. Construct an Nmap SYN scan that does not do DNS lookups, does not ping the hos, and only returns open ports for tcp/139 and tcp/445. *@whereistehnarwhal, reddit*
+4. Construct an Nmap SYN scan that does not do DNS lookups, does not ping the host, and only returns open ports for tcp/139 and tcp/445. *@whereistehnarwhal, reddit*
 5. What kind of attack is ARP Spoofing considered and how could you leverage it on a penetration test? *@jstnkndy*
 6. Explain what NBNS poisoning is and how it can be leveraged on a penetration test. *@jstnkndy*
 7. Answer true or false and explain your answer: two-factor authentication protects against session hijacking. *@jstnkndy*
