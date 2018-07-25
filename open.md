@@ -16,6 +16,8 @@
 10. Why would you like to work here? *@webbreacher*
 11. Describe how you learn best? *@webbreacher*
 12. What was the last or most interesting tech project you worked on in your personal time *@cdiaz1971*
+13. Have you participated in any Capture The Flag (CTF) competitions? *@sml555_*
+14. Have you created any CTF challenges (as an organiser)? *@sml555_*
 
 ## Tech Questions ##
 
