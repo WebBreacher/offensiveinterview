@@ -34,7 +34,7 @@
 5. Describe a webshell and how you would upload/use one. *@enddo*
     1. How would you bypass uploader protections? *@enddo*
 6. Describe Remote Command Execution (RCE). *@enddo*
-    1. How would you perevent it in PHP? *@enddo*
+    1. How would you prevent it in PHP? *@enddo*
 7. Describe Cross Site Request Forgery. *@jstnkndy*
     1. How would you prevent it?
 8. Describe the different types of Cross Site Scripting. *@jstnkndy*
